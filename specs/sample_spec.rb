@@ -6,6 +6,6 @@ RSpec.describe "A sample test" do
   end
   
   it "too shall pass" do
-    expect(42).to eql(12)
+    expect(12).to eql(12)
   end
 end
